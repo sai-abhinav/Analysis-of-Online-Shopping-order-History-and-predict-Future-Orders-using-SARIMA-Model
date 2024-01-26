@@ -1,2 +1,2 @@
-In Analysis of Online shopping order History and predict Future Orders using SARIMA moodel, we use real time data set of online shopping website which has day wise sales reports and we use data analysis techniques to show graphical re-prestation on data set and then apply SARIMA model to predict future day wise sales.
+In the Analysis of Online shopping order History and predict Future Orders using the SARIMA model, we use a real-time data set of an online shopping website that has day-wise sales reports and we use data analysis techniques to show graphical re-presentation of the data set and then apply SARIMA model to predict future day wise sales.
 
